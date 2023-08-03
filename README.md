@@ -60,7 +60,7 @@
 	IAMFullAccess 
 	AmazonVPCFullAccess
 
-Then Attach IAM role to ubuntu server from Console Select KOPS Server --> Actions --> Instance Settings --> Attach/Replace IAM Role --> Select the role which
+Then Attach IAM role to ubuntu server from Console Select KOPS Server --> Actions --> Security --> Attach/Replace IAM Role --> Select the role which
 You Created. --> Save.
 
 ## 6) create an S3 bucket
